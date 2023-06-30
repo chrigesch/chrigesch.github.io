@@ -2,28 +2,38 @@
 
 ---
 
-### Category Name 1 
+### Final Project of the Relational Database Certification
+
+For this project of the [300 hours - FreeCodeCamp - Relation Database Certification](https://www.freecodecamp.org/certification/fccc9d03d80-7181-4b05-98ad-2407f0379bd3/relational-database-v8), I used Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information.
+
+[View Code on GitHub](https://github.com/chrigesch/number_guessing_game)
+
+---
+
+### Final Project of the Machine Learning with Python Certificate
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[View Code on GitHub](https://github.com/chrigesch/DataChum)
+
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Peer-reviewed research article using Cluster Analysis
+
+[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[View Code on GitHub](https://github.com/chrigesch/DataChum)
+
 ---
-[Project 3 Title](http://example.com/)
+
+### Peer-reviewed research article using Supervised Machine Learning in a regression task
+
+[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[View Code on GitHub](https://github.com/chrigesch/DataChum)
 
 ---
 
