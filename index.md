@@ -36,10 +36,13 @@ An empirical approach called Latent Profile Analysis (LPA) offers an alternative
 
 ### Peer-reviewed research article using Supervised Machine Learning in a regression task
 
-[Project 1 Title](/sample_page)
+This study explored the association between social support, emotion regulation, coping, and psychological symptoms. Using supervised machine learning models, the findings indicated that adaptive strategies have considerable effects on maladaptive strategies, but they do not have significant effects on symptoms. Contrariwise, social support variables have significant effects on symptoms, while they do not have major effects on maladaptive strategies. The study highlights the importance of regulatory flexibility in maintaining adequate levels of social support for well-being.
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[View Code on GitHub](https://github.com/chrigesch/DataChum)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+[View article on journal's homepage](https://hpr.termedia.pl/Is-emotional-support-the-key-to-improving-emotion-regulation-A-machine-learning-approach,156937,0,2.html)
 
 ---
 
