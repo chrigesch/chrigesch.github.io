@@ -14,7 +14,7 @@ For this project of the [300 hours - FreeCodeCamp - Relation Database Certificat
 
 ### Final Project of the Machine Learning with Python Certificate
 
-For this project of the [300 hours - FreeCodeCamp - Machine Learning with Python Certificate]([https://www.freecodecamp.org/certification/fccc9d03d80-7181-4b05-98ad-2407f0379bd3/relational-database-v8](https://www.freecodecamp.org/certification/fccc9d03d80-7181-4b05-98ad-2407f0379bd3/machine-learning-with-python-v7)), I developed a machine learning model using TensorFlow to classify SMS messages as either 'ham' or 'spam'. The goal was to differentiate between normal messages sent by friends ('ham') and advertisements or messages from companies ('spam'). Additionally, I implemented a function called 'predict_message' that takes a message string as input and returns a probability score ranging from zero to one, indicating the likelihood of the message being 'ham' or 'spam'. The function also outputs the predicted label ('ham' or 'spam') based on the highest probability.
+For this project of the [300 hours - FreeCodeCamp - Machine Learning with Python Certificate]([https://www.freecodecamp.org/certification/fccc9d03d80-7181-4b05-98ad-2407f0379bd3/relational-database-v8](https://www.freecodecamp.org/certification/fccc9d03d80-7181-4b05-98ad-2407f0379bd3/machine-learning-with-python-v7)), I developed a machine learning model using TensorFlow to classify SMS messages as either 'ham' or 'spam'.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
