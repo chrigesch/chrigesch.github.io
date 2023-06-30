@@ -16,7 +16,7 @@ For this project of the [300 hours - FreeCodeCamp - Relation Database Certificat
 
 For this project of the [300 hours - FreeCodeCamp - Machine Learning with Python Certificate]([https://www.freecodecamp.org/certification/fccc9d03d80-7181-4b05-98ad-2407f0379bd3/relational-database-v8](https://www.freecodecamp.org/certification/fccc9d03d80-7181-4b05-98ad-2407f0379bd3/machine-learning-with-python-v7)), I developed a machine learning model using TensorFlow to classify SMS messages as either 'ham' or 'spam'. The goal was to differentiate between normal messages sent by friends ('ham') and advertisements or messages from companies ('spam'). Additionally, I implemented a function called 'predict_message' that takes a message string as input and returns a probability score ranging from zero to one, indicating the likelihood of the message being 'ham' or 'spam'. The function also outputs the predicted label ('ham' or 'spam') based on the highest probability.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 [View Code on GitHub](https://github.com/chrigesch/sms_text_classification)
 
@@ -24,10 +24,13 @@ For this project of the [300 hours - FreeCodeCamp - Machine Learning with Python
 
 ### Peer-reviewed research article using Cluster Analysis
 
-[Project 1 Title](/sample_page)
+An empirical approach called Latent Profile Analysis (LPA) offers an alternative for studying co-occurring syndromes. This study aimed to determine the patterns of psychological symptoms using LPA, considering the limited existing research utilizing this method across a wide range of symptoms. Additionally, the study aimed to analyze differences among the identified latent subgroups in terms of symptom severity, coping strategies, selected social support variables, personality traits, and sociodemographic variables.
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[View Code on GitHub](https://github.com/chrigesch/DataChum)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+[View article on journal's homepage](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002885055#none)
 
 ---
 
