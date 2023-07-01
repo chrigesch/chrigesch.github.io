@@ -50,7 +50,7 @@ This study explored the association between social support, emotion regulation, 
 I have developed [DataChum](https://datachum.streamlit.app/), a web application that streamlines data analysis, facilitates result interpretation, and effectively communicates findings through visually engaging graphics. This tool empowers users to easily navigate complex datasets and gain valuable insights, promoting efficient decision-making and enhancing data-driven communication. [DataChum](https://datachum.streamlit.app/) encompasses four modules: Exploratory Data Analysis, Classification and Regression, Cluster Analysis, and Deployment. 
 
 **Figure 1:** Exploratory Data Analysis
-<img src="images/EDA_1.png?raw=true"/>
+<img src="images/EDA_1a.png?raw=true"/>
 
 **Figure 2:** Classification and Regression - Shapley values
 <img src="images/SHAP_1.png?raw=true"/>
