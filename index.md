@@ -24,7 +24,7 @@ For this project of the [300 hours - FreeCodeCamp - Machine Learning with Python
 
 ### Peer-reviewed research article using Cluster Analysis
 
-An empirical approach called Latent Profile Analysis (LPA) offers an alternative for studying co-occurring syndromes. This study aimed to determine the patterns of psychological symptoms using LPA, considering the limited existing research utilizing this method across a wide range of symptoms. Additionally, the study aimed to analyze differences among the identified latent subgroups in terms of symptom severity, coping strategies, selected social support variables, personality traits, and sociodemographic variables.
+This study utilized Latent Profile Analysis (LPA) to determine patterns of psychological symptoms and analyze differences among latent subgroups. It contributes to the limited existing research on co-occurring syndromes using LPA, examining symptom severity, coping strategies, social support, personality traits, and sociodemographic variables.
 
 <img src="images/Figure 1 - LPA.png?raw=true"/>
 
